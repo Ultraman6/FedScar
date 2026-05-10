@@ -1,0 +1,14 @@
+torch
+torchvision
+numpy
+scipy
+torchtext
+matplotlib
+seaborn
+scikit-learn
+pandas
+tqdm
+pillow
+ujson
+openpyxl
+h5py
